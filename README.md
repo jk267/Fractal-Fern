@@ -7,4 +7,5 @@ This project was made to showcase the understanding of recursion.
 
 ## Video Demonstration
 
-[Watch the video](data/Library _ Loom - 5 June 2024.mp4)
+<video src="data/Library _ Loom - 5 June 2024.mp4"></video>
+
