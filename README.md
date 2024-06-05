@@ -7,5 +7,5 @@ This project was made to showcase the understanding of recursion.
 
 ## Video Demonstration
 
-[!ALT(https://www.youtube.com/watch?v=CRYD7j_2SEA)](https://www.youtube.com/watch?v= CRYD7j_2SEA)
+[!ALT(https://www.youtube.com/watch?v=CRYD7j_2SEA)](https://www.youtube.com/watch?v=CRYD7j_2SEA)
 
