@@ -1,1 +1,2 @@
-Fratal Fern Project
+Fractal Fern
+![Alt text](data/thumbnail.png)
